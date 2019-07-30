@@ -19,6 +19,7 @@
   "homepage": "https://github.com/cssivision/react-native-qrcode#readme",
   "dependencies": {
     "create-react-class": "^15.6.0",
+    "react-native-webview": "^5.12.1",
     "prop-types": "^15.5.10",
     "qr.js": "0.0.0"
   }
